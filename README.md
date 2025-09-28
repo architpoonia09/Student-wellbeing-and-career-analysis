@@ -35,7 +35,8 @@ This project involves analyzing a dataset of student well-being and academic per
 - Data Preprocessing, Exploratory Data Analysis, and Visualization
 
 
-
+---
+---
 
 
 
@@ -60,14 +61,6 @@ It applies **Linear Regression** to predict placement scores and **Logistic Regr
 | CGPA             | Cumulative GPA (0–10 scale)                         |
 | Placement_Score  | Composite score (0–100) from placement tests & interviews |
 | Placed           | 1 = Placed, 0 = Not placed                          |
-
----
-
-## Project Structure
-
-- **Task2_Improved_Notebook.ipynb** – Main notebook with data preprocessing, modeling, evaluation, and insights.
-- **student_career_performance.csv** – Dataset used for training and evaluation.
-- **README.md** – Project documentation.
 
 ---
 
@@ -117,7 +110,7 @@ It applies **Linear Regression** to predict placement scores and **Logistic Regr
 
 ---
 
-
+---
 
 # Dependencies
 - pip install pandas numpy scikit-learn matplotlib seaborn
