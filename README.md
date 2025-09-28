@@ -1,6 +1,7 @@
 
 # Task 1
-# Student Well-being and Academic Performance Analysis
+# Student Well-being and Academic Performance Analysis(Std_WellBeing_and_Acad_Performance_Analysis.ipynb
+)
 
 ## Overview
 This project involves analyzing a dataset of student well-being and academic performance. The dataset includes various factors such as study habits, sleep hours, screen time, attendance, extracurricular activities, stress levels, and CGPA. The goal of this analysis is to explore the relationships between these factors and derive meaningful insights that can inform academic and wellness strategies.
@@ -25,7 +26,7 @@ This project involves analyzing a dataset of student well-being and academic per
 ### 4. **Insights**
    - At least five meaningful insights were drawn based on the analysis, supported by appropriate graphs and statistical measures. These insights help in understanding the correlation between student behavior and academic performance.
 
-### 5. **Data Export**
+### 5. **Data Export** (Cleaned Dataset)
    - The cleaned dataset has been exported for further use and analysis, ensuring that it is in a ready-to-use format for future studies or models.
 
 ## Technologies Used
@@ -40,7 +41,7 @@ This project involves analyzing a dataset of student well-being and academic per
 
 
 # Task 2
-# Student Career Performance – Regression Models
+# Student Career Performance – Regression Models (Std_Career_Performance_Analysis.ipynb)
 
 This project analyzes factors influencing students’ academic outcomes and placement readiness.  
 It applies **Linear Regression** to predict placement scores and **Logistic Regression** to predict placement outcomes (placed vs. not placed).
